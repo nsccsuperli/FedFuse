@@ -188,23 +188,7 @@ python eval.py --method fedfuse --ckpt runs/fedfuse/fedfuse_latest.pt \
 
 ---
 
-## 🔖 Citation
 
-If you find this repository useful, please cite:
-
-```bibtex
-@inproceedings{fedfuse2026,
-  title     = {FedFuse: Physics-Guided Dual-Path Federated Fine-Tuning
-               for Multi-Center Low-Dose CT Enhancement},
-  author    = {nsccsuperli},
-  booktitle = {ICASSP},
-  year      = {2026}
-}
-```
-
-> ✏️ Update author list / venue details when the camera-ready version is available.
-
----
 
 ## 🙏 Acknowledgements
 
